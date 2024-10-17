@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marium0908
-- 👀 I’m interested in ...web development
+- 👀 I’m interested in ...web development and writting content.
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...https://www.facebook.com/marium0908
