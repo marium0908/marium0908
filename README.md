@@ -91,22 +91,13 @@ A creative and functional solution designed to solve real-world problems.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marium0908&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marium0908&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=marium0908&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=marium0908&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
