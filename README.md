@@ -90,6 +90,15 @@ A creative and functional solution designed to solve real-world problems.
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marium0908&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marium0908&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ---
