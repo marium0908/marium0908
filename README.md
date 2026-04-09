@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @marium0908
+- My Email mariumbintemuhammad@gmail.com
 - 👀 I’m interested in ...web development and writting content.
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...github
