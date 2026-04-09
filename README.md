@@ -1,7 +1,8 @@
-
 # 👋 Hi, I'm Marium
-# My gmail is mariumbintemuhammad@gmail.com
+
 ### 💻 Full Stack Web Developer | MERN Stack Learner | WordPress Expert 🚀
+
+📧 **Email:** [mariumbintemuhammad@gmail.com](mailto:mariumbintemuhammad@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=220&section=header&text=Marium%20Binte%20Muhammad&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
@@ -11,7 +12,7 @@
 
 I am a passionate and dedicated **Full Stack Web Developer** with hands-on experience in building modern, responsive, and dynamic web applications.
 
-I have strong knowledge in both frontend and backend technologies, and I am currently focusing on modern frameworks and tools like **React, Next.js, and Tailwind CSS** to build scalable and high-performance applications.
+I have strong knowledge in both frontend and backend technologies, and I am currently focusing on modern frameworks like **React, Next.js, and Tailwind CSS** to build scalable and high-performance applications.
 
 I enjoy solving real-world problems through code and continuously improving my skills to stay updated with the latest technologies.
 
@@ -68,9 +69,10 @@ A modern and responsive web application with clean UI and smooth user experience
 
 A full-stack project with dynamic data handling and API integration.
 🔗 Live Demo: https://digitools-a6-ph13.netlify.app/
+
 ---
 
-### 🌟Couriar
+### 🌟 Couriar
 
 A creative and functional solution designed to solve real-world problems.
 🔗 Live Demo: https://marium0908.github.io/couriar/
