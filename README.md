@@ -1,10 +1,11 @@
+<img width="1280" height="714" alt="679334961_1482050157037465_4852150744177296743_n" src="https://github.com/user-attachments/assets/cd8880b1-b372-44f2-aeec-6b990362b27b" />
 # 👋 Hi, I'm Marium
 
-### 💻 Full Stack Web Developer | MERN Stack Learner | WordPress Expert 🚀
+### 💻 Full Stack Web Developer | MERN Stack Developer | WordPress Expert 
 
 📧 **Email:** [mariumbintemuhammad@gmail.com](mailto:mariumbintemuhammad@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=220&section=header&text=Marium%20Binte%20Muhammad&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+
 
 ---
 
