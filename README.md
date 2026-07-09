@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marium
 
-### 💻 Full Stack Web Developer | MERN Stack Developer | WordPress Expert 
+### Full Stack Web Developer | MERN Stack Enthusiast | Pursuing B.Sc. in Information Technology (IOU)
 
 📧 **Email:** [mariumbintemuhammad@gmail.com](mailto:mariumbintemuhammad@gmail.com)
 
