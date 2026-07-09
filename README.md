@@ -1,4 +1,5 @@
-<img width="1280" height="714" alt="679334961_1482050157037465_4852150744177296743_n" src="https://github.com/user-attachments/assets/cd8880b1-b372-44f2-aeec-6b990362b27b" />
+<img width="1280" height="340" alt="679334961_1482050157037465_4852150744177296743_n" src="https://github.com/user-attachments/assets/cfa77ce2-96ba-4bf9-86a6-41e151132fcf" />
+
 # 👋 Hi, I'm Marium
 
 ### 💻 Full Stack Web Developer | MERN Stack Developer | WordPress Expert 
